@@ -1,0 +1,13 @@
+uuid: 76dd8e0c-5815-4809-af08-8cbf277b9112
+langcode: da
+status: true
+dependencies:
+  module:
+    - node
+id: node_search
+label: Indhold
+path: node
+weight: -10
+plugin: node_search
+configuration:
+  rankings: {  }

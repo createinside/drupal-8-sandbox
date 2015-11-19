@@ -1,0 +1,8 @@
+uuid: 66d83f19-46c6-4271-8500-d36537918621
+langcode: da
+status: true
+dependencies: {  }
+id: tools
+label: Værktøjer
+description: 'User tool links, often added by modules'
+locked: true

@@ -1,0 +1,9 @@
+uuid: 1cfcd8a2-f4d5-439f-9c00-c9bbec7cf869
+langcode: da
+status: true
+dependencies: {  }
+id: administrator
+label: Administrator
+weight: 2
+is_admin: true
+permissions: {  }

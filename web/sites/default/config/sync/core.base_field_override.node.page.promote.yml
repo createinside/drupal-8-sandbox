@@ -1,0 +1,22 @@
+uuid: c5f4a3f9-35ce-4411-8800-b07f1ab2a7ed
+langcode: da
+status: true
+dependencies:
+  config:
+    - node.type.page
+id: node.page.promote
+field_name: promote
+entity_type: node
+bundle: page
+label: 'Forfremmet til forside'
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

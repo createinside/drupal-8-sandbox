@@ -1,0 +1,10 @@
+uuid: 660fe6fd-8e91-4161-b604-4b3187604cce
+langcode: da
+status: false
+dependencies:
+  module:
+    - block_content
+id: block_content.full
+label: Fuld
+targetEntityType: block_content
+cache: true

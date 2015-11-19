@@ -1,0 +1,14 @@
+uuid: 70db1cb2-7847-4a1a-9e00-b7a14bf213f9
+langcode: da
+status: true
+dependencies: {  }
+id: anonymous
+label: 'Anonymous user'
+weight: 0
+is_admin: false
+permissions:
+  - 'access content'
+  - 'use text format restricted_html'
+  - 'access comments'
+  - 'access site-wide contact form'
+  - 'search content'

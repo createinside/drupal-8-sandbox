@@ -1,0 +1,22 @@
+uuid: bfb6cae6-9e94-4407-8500-0032ff503922
+langcode: da
+status: true
+dependencies:
+  config:
+    - block_content.type.basic
+    - field.storage.block_content.body
+  module:
+    - text
+id: block_content.basic.body
+field_name: body
+entity_type: block_content
+bundle: basic
+label: Brødtekst
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  display_summary: false
+field_type: text_with_summary
